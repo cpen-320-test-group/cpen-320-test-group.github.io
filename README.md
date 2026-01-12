@@ -22,17 +22,6 @@ To use these files in your project, include them via a script tag:
 <script src="https://cpen-320-test-group.github.io/obfuscated/test-a1.js"></script>
 ```
 
-## Adding New JS Files
-
-1. Add your `.js` file to the root directory
-2. Commit and push to the `main` branch
-3. The file will be available at: `https://cpen-320-test-group.github.io/your-file.js`
-4. Update `index.html` to list the new file
-
-## GitHub Pages Setup
-
-This site is automatically deployed from the `main` branch. Any changes pushed to `main` will be reflected on the live site within a few minutes.
-
 ## Local Development
 
 To test locally:
