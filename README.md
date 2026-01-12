@@ -4,14 +4,29 @@ This repository hosts JavaScript files for the CPEN 320 project using GitHub Pag
 
 ## Hosted Files
 
+### Example Files
 - `example.js` - Example JavaScript file with utility functions
+
+### Obfuscated Test Files
+- `obfuscated/test-a1.js` - Assignment 1 test file
+- `obfuscated/test-a2.js` - Assignment 2 test file
+- `obfuscated/test-a3.js` - Assignment 3 test file
+- `obfuscated/test-a3-server.js` - Assignment 3 server test file
+- `obfuscated/test-a4.js` - Assignment 4 test file
+- `obfuscated/test-a4-server.js` - Assignment 4 server test file
+- `obfuscated/test-a5.js` - Assignment 5 test file
+- `obfuscated/test-a5-server.js` - Assignment 5 server test file
 
 ## Usage
 
 To use these files in your project, include them via a script tag:
 
 ```html
+<!-- Example file -->
 <script src="https://cpen-320-test-group.github.io/example.js"></script>
+
+<!-- Obfuscated test files -->
+<script src="https://cpen-320-test-group.github.io/obfuscated/test-a1.js"></script>
 ```
 
 ## Adding New JS Files

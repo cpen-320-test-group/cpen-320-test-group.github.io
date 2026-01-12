@@ -1,0 +1,3 @@
+# Treat obfuscated files as binary to prevent git from attempting diffs
+obfuscated/*.js binary
+obfuscated/*.js linguist-generated=true
